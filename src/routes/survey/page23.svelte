@@ -1,41 +1,45 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-	21a. Which of these community initiated workshops would be useful to you?
+        23a. What information sheets would be useful to you?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />
-			<label for="1">Completing your Fire Plan</label>
+			<label for="1">Pre Fire season checklist</label>
 		</li>
 		<li>
 			<input type="checkbox" id="2" name="2" unchecked />
-			<label for="2">Using online video calls</label>
+			<label for="2">Lighting fires - facts and responsibilities</label>
 		</li>
 		<li>
 			<input type="checkbox" id="3" name="3" unchecked />
-			<label for="3">How to develop a good Emergency pack and plan</label>
+			<label for="3">Fire ready - pets and animals</label>
 		</li>
 		<li>
 			<input type="checkbox" id="4" name="4" unchecked />
-			<label for="4">Making a Fire trailer</label>
+			<label for="4">Fire Ready - livestock & large animals</label>
 		</li>
 		<li>
 			<input type="checkbox" id="5" name="5" unchecked />
-			<label for="5">Bushfire safety training</label>
+			<label for="5">BCYCA membership application</label>
 		</li>
 		<li>
 			<input type="checkbox" id="6" name="6" unchecked />
-			<label for="6">How to do a small pile burn safely</label>
+			<label for="6">How to be more active locally</label>
 		</li>
 		<li>
 			<input type="checkbox" id="7" name="7" unchecked />
-			<label for="7">Other - please add details below</label>
+			<label for="7">Strengthening Our Community Project Report</label>
+		</li>
+        <li>
+			<input type="checkbox" id="8" name="8" unchecked />
+			<label for="8">Other - please add details below</label>
 		</li>
 	</ul>
 </div>
 
 <div>
-	21b. If there are "other "workshops that you would like to see run, please add the details here.
+	23b. If you ticked "other" above please describe the information sheets that you would like to see. 
 	<ul>
 		<li>
 			<input class="text8" type="textarea" id="8" name="8" />

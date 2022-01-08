@@ -1,0 +1,1 @@
+15. Does your property have:
