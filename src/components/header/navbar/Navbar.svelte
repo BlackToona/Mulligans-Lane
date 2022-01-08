@@ -23,6 +23,9 @@
 						href="{base}/"
 						class="py-1 px-2 text-white bg-orange-500 font-semibold rounded-xl">Home</a
 					>
+				
+		
+		
 					<a
 						class:active={$page.path.endsWith('/about')}
 						sveltekit:prefetch
