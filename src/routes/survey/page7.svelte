@@ -1,7 +1,7 @@
 
 <!-- started to work on this 8Jan, needs review -->
     <div>
-        7a. Number of people who usually live at this property? 
+        7a. Please add the number (left hand side) indicating the people who usually live at this property? 
 	<ul>
 		<li>
 			<input type="number" id="1" name="1" unchecked />
@@ -34,4 +34,14 @@
 		<li>
 			<input type="checkbox" id="6" name="6" unchecked />
 			<label for="6">No</label>
+		</li>
+</div>
+<div>
+	7c. If so, how many are considered vulnerable ?
+	<ul>
+		<li>
+			<input type="number" id="7" name="7" unchecked />
+			<label for="7">Number</label>
+		</li>
+		</ul>
 </div>
