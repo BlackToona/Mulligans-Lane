@@ -38,7 +38,9 @@
 	 If there are "other "workshops that you would like to see run, please add the details here.
 	<ul>
 		<li>
-			<input class="text8" type="textarea" id="8" name="8" />
+			
+			<input type="textbox8" id="textarea" name="8" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1" />
+			<label for="8"></label>
 		</li>
 	</ul>
 </div>
@@ -53,9 +55,5 @@
     li { 
         padding-left: 10px;
     }
-    .text8{
-        width: 100%;
-        border: purple;
-        border-radius: 3px;
-    }
+    
 </style>
