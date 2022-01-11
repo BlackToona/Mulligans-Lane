@@ -37,11 +37,5 @@
 		</li>
 </div>
 <div>
-	7c. If so, how many are considered vulnerable ?
-	<ul>
-		<li>
-			<input type="number" id="7" name="7" unchecked />
-			<label for="7">Number</label>
-		</li>
-		</ul>
+	
 </div>

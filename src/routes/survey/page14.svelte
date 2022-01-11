@@ -5,7 +5,7 @@
 	14. Are there any hazards on site that should be noted?
 	<ul>
 		<li>
-			<input class="text1" type="textarea" id="1" name="1" />
+			<input class="text1" type="textarea" id="1" name="1"  />
 		</li>
 	</ul>
 </div>

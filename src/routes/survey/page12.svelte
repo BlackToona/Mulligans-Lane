@@ -3,20 +3,21 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        12. Do you have a Stortz fitting attached to a water tank?  If yes please include the size 
+        12. Do you have a Stortz fitting attached to a water tank?  
 
 	<ul>
 		<li>
-			<input type="checkbox" id="1" name="1" unchecked />
-			<label for="1">No </label>
+            <label for="1">No </label>
+			<input type="checkbox" id="1" name="1" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1"/>
+			
 		</li>
 		
 		
 	
 		
-        <li> Yes the Stortz size is
-			<input type="textbox2" id="textarea" name="2" unchecked />
-			<label for="2">mm</label>
+        <li> If yes please include the size 
+			<input type="textbox2" id="textarea" name="2" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1" />
+			<label for="2"></label>
 		</li>
         
 	</ul>

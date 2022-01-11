@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-	21a. Which of these community initiated workshops would be useful to you?
+	21. Which of these community initiated workshops would be useful to you?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />
@@ -33,9 +33,9 @@
 		</li>
 	</ul>
 </div>
-
+<br/>
 <div>
-	21b. If there are "other "workshops that you would like to see run, please add the details here.
+	 If there are "other "workshops that you would like to see run, please add the details here.
 	<ul>
 		<li>
 			<input class="text8" type="textarea" id="8" name="8" />
@@ -48,7 +48,7 @@
 <style>
     .container{
         margin: 40px, 60px;
-        background-color: papayawhip;
+        background-color: rgb(201, 241, 211);
     }
     li { 
         padding-left: 10px;
