@@ -1,13 +1,20 @@
+
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
+    <div>
+        14. Are there any hazards on site that should be noted?
 
-</div><div>
-	14. Are there any hazards on site that should be noted?
 	<ul>
-		<li>
-			<input class="text1" type="textarea" id="1" name="1"  />
+		
+        <li> 
+			<input type="textbox2" id="textarea" name="2" unchecked class="block border border-orange-700 w-full p-1 rounded mb-1" />
+			<label for="2"></label>
 		</li>
+        
 	</ul>
+</div>
+
+
 </div>
 
 
@@ -19,9 +26,6 @@
     li { 
         padding-left: 10px;
     }
-    .text1{
-        width: 100%;
-        border: purple;
-        border-radius: 3px;
-    }
+    
 </style>
+

@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        16a. Does the land adjoining your property represent a hazard?
+        16. Does the land adjoining your property represent a hazard?
         
             <ul>
                 <li>
@@ -21,10 +21,11 @@
 </div>
 
 <div>
-	16b. Are there other areas which either concern you or represent a potential threat?
+ Are there other areas which either concern you or represent a potential threat?
 	<ul>
 		<li>
-			<input class="text4" type="textarea" id="4" name="4" />
+			<input type="textbox2" id="textarea" name="2" unchecked class="block border border-orange-700 w-full p-1 rounded mb-1" />
+			<label for="2"></label>
 		</li>
 	</ul>
 </div>
@@ -40,9 +41,5 @@
     li { 
         padding-left: 10px;
     }
-    .text4{
-        width: 100%;
-        border: purple;
-        border-radius: 3px;
-    }
+   
 </style>

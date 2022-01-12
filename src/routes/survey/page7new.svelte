@@ -5,21 +5,22 @@
     <ul>
         <li>
             <label for="1">0-18 years</label>
-            <input type="number" id="1" name="1" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1"/>  
+            <input type="number" id="1" name="1" unchecked class="block border border-orange-700 w-50px
+             p-1 rounded mb-1"/>  
         </li>
         <li>
             <label for="2">19-50 years</label>
-            <input type="number" id="2" name="2" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1"/>
+            <input type="number" id="2" name="2" unchecked class="block border border-orange-700 w-50px p-1 rounded mb-1"/>
             
         </li>
         <li>
             <label for="3">51-70 years</label>
-            <input type="number" id="3" name="3" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1"/>
+            <input type="number" id="3" name="3" unchecked class="block border border-orange-700 w-50px p-1 rounded mb-1"/>
             
         </li>
         <li>
             <label for="4">70+ years</label>
-            <input type="number" id="4" name="4" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1"/>
+            <input type="number" id="4" name="4" unchecked class="block border border-orange-700 w-50px p-1 rounded mb-1"/>
             
         </li>
     
@@ -29,13 +30,13 @@
  Do you consider any person on the property to be vulnerable ?
  <ul>
     <li>
-        <label for="5">Yes</label>
-        <input type="number" id="5" name="5" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1"/>
+        <input type="checkbox" id="1" name="1" unchecked />
+			<label for="1">Yes</label>
         
     </li>
     <li>
-        <label for="6">No</label>
-        <input type="number" id="6" name="6" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1"/>
+        <input type="checkbox" id="2" name="2" unchecked />
+			<label for="2">No</label>
         
     </li>
     </ul>

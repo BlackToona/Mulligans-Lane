@@ -27,10 +27,7 @@
 			<input type="checkbox" id="6" name="6" unchecked />
 			<label for="6">How to do a small pile burn safely</label>
 		</li>
-		<li>
-			<input type="checkbox" id="7" name="7" unchecked />
-			<label for="7">Other - please add details below</label>
-		</li>
+		
 	</ul>
 </div>
 <br/>
@@ -39,11 +36,22 @@
 	<ul>
 		<li>
 			
-			<input type="textbox8" id="textarea" name="8" unchecked class="block border border-orange-700 w-half p-1 rounded mb-1" />
+			<input type="textbox8" id="textarea" name="8" unchecked class="block border border-orange-700 w-450px p-1 rounded mb-1" />
 			<label for="8"></label>
 		</li>
 	</ul>
 </div>
+<br/>
+<div>
+	 If you would like to help run any of the workshops, please indicate which ones below.
+	<ul>
+		<li>
+			
+			<input type="textbox9" id="textarea" name="9" unchecked class="block border border-orange-700 w-450px p-1 rounded mb-1" />
+			<label for="9"></label>
+		</li>
+	</ul>
+	</div>
 </div>
 
 

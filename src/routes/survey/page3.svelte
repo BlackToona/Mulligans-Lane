@@ -1,57 +1,46 @@
 
 
+<!-- /this is OK for next step Jan22 -->
+<div class="container">
+    <div>
+        3. What is the quality of your mobile reception at your property?
+	<ul>
+		<li>
+			<input type="checkbox" id="1" name="1" unchecked />
+			<label for="1">Excellent</label>
+		</li>
+		<li>
+			<input type="checkbox" id="2" name="2" unchecked />
+			<label for="2">Generally stable</label>
+		</li>
+		<li>
+			<input type="checkbox" id="3" name="3" unchecked />
+			<label for="3">Unreliable</label>
+		</li>
+		<li>
+			<input type="checkbox" id="4" name="4" unchecked />
+			<label for="4">Poor</label>
+		</li>
+		<li>
+			<input type="checkbox" id="5" name="5" unchecked />
+			<label for="5">Not connected</label>
+		</li>
+		
+	
+	</ul>
+</div>
 
 
-<script>
-	let items = 1;
-	let equipment = ['Trailer Chemicals Rakehoe'];
 
-	let menu = [
-		'Trailer',
-		'Chemicals',
-		'Rakehoe'
-	];
+<style>
+    .container{
+        margin: 40px, 60px;
+        background-color: papayawhip;
+    }
+    li { 
+        padding-left: 10px;
+   
+    }
+</style>
+</div>
 
-	function join(equipment) {
-		if (equipment.length === 1) return equipment[0];
-		return `${equipment.slice(0, -1).join(', ')} and ${equipment[equipment.length - 1]}`;
-	}
-</script>
-
-<h2>Size</h2>
-
-<label>
-	<input type=radio bind:group={items} value={1}>
-	One 
-</label>
-
-<label>
-	<input type=radio bind:group={items} value={2}>
-	Two 
-</label>
-
-<label>
-	<input type=radio bind:group={items} value={3}>
-	Three
-</label>
-
-<h2>Equipment</h2>
-
-<select multiple bind:value={equipment}>
-	{#each menu as equipment}
-		<option value={equipment}>
-			{equipment}
-		</option>
-	{/each}
-</select>
-
-{#if equipment.length === 0}
-	<p>Please select at least one flavour</p>
-{:else if equipment.length > items}
-	<p>Can't order more flavours than items!</p>
-{:else}
-	<p>
-		You have {items} {items === 1 ? 'item' : 'items'}
-		of {join(equipment)}
-	</p>
-{/if}

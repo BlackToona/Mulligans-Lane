@@ -5,7 +5,7 @@
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />
-			<label for="1">Pre Fire season checklist</label>
+			<label for="1">Pre fire season checklist</label>
 		</li>
 		<li>
 			<input type="checkbox" id="2" name="2" unchecked />
@@ -17,11 +17,11 @@
 		</li>
 		<li>
 			<input type="checkbox" id="4" name="4" unchecked />
-			<label for="4">Fire Ready - livestock & large animals</label>
+			<label for="4">Fire ready - livestock & large animals</label>
 		</li>
 		<li>
 			<input type="checkbox" id="5" name="5" unchecked />
-			<label for="5">BCYCA membership application</label>
+			<label for="5">BCYCA leaflet</label>
 		</li>
 		<li>
 			<input type="checkbox" id="6" name="6" unchecked />
@@ -31,16 +31,13 @@
 			<input type="checkbox" id="7" name="7" unchecked />
 			<label for="7">Strengthening Our Community Project Report</label>
 		</li>
-        <li>
-			<input type="checkbox" id="8" name="8" unchecked />
-			<label for="8">Other - please add details below</label>
-		</li>
+        
 	</ul>
 </div>
 <br/>
 
 <div>
- If you ticked "other" above please describe the information sheets that you would like to see. 
+ Are there other information sheets that you would find useful?
 	<ul>
 		<li>
 		

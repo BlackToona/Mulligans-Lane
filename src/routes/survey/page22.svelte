@@ -48,15 +48,12 @@
 			<input type="checkbox" id="11" name="11" unchecked  />
 			<label for="11">Book Club</label>
 		</li>
-        <li>
-			<input type="checkbox" id="12" name="12" unchecked  />
-			<label for="12">Other</label>
-		</li>
+        
 	</ul>
 </div>
 <br/>
 <div>
- If you ticked "other" above please describe the community meeting that you would like to see here.
+ If there are other events you would be interested in, please add them below.
 	
 			<input type="textbox15" id="textarea" name="15" unchecked class="block border border-orange-700 w-full p-1 rounded mb-1" />
 			<label for="15"></label>
