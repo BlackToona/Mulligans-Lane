@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        20. What is your level of firefighting experience?
+        18. What is your level of firefighting experience?
 
 	<ul>
 		<li>

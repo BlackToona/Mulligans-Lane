@@ -1,9 +1,9 @@
 
 
-<!-- /this is OK for next step Jan22 -->
+<!-- /not using-->
 <div class="container">
     <div>
-        3. What is the quality of your mobile reception at your property?
+        4. What is the quality of your mobile reception at your property?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />

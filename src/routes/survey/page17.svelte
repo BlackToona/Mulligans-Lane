@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        17. Have you completed a RFS Bushfire survival plan?
+        15. Have you completed a RFS Bushfire survival plan?
         
             <ul>
                 <li>

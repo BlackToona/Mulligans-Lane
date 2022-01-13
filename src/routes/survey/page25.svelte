@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        25. Do you have any other comments that you would like to add?
+        23. Do you have any other comments that you would like to add?
 	
 	<ul>
 		<li>

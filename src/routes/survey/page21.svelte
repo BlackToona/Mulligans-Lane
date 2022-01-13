@@ -1,11 +1,11 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-	21. Which of these community initiated workshops would be useful to you?
+	19. Which of these community initiated workshops would be useful to you?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />
-			<label for="1">Completing your Fire Plan</label>
+			<label for="1">Completing your fire plan</label>
 		</li>
 		<li>
 			<input type="checkbox" id="2" name="2" unchecked />
@@ -13,11 +13,11 @@
 		</li>
 		<li>
 			<input type="checkbox" id="3" name="3" unchecked />
-			<label for="3">How to develop a good Emergency pack and plan</label>
+			<label for="3">How to develop a good emergency pack and plan</label>
 		</li>
 		<li>
 			<input type="checkbox" id="4" name="4" unchecked />
-			<label for="4">Making a Fire trailer</label>
+			<label for="4">Making a fire trailer</label>
 		</li>
 		<li>
 			<input type="checkbox" id="5" name="5" unchecked />

@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        18. If your property is threatened by fire, are you: 
+        16. If your property is threatened by fire, are you: 
 
         
             <ul>
@@ -15,7 +15,7 @@
                 </li>
                 <li>
                     <input type="checkbox" id="3" name="3" unchecked />
-                    <label for="3">Unsure</label>
+                    <label for="3">Unsure depending on severity</label>
                 </li>
         
     </ul>

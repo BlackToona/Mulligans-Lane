@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        24. How would you prefer to stay in touch?
+        22. How would you prefer to stay in touch?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />
@@ -21,7 +21,7 @@
 		</li>
 		<li>
 			<input type="checkbox" id="5" name="5" unchecked />
-			<label for="5">via Post</label>
+			<label for="5">Via post</label>
 		</li>
 		
 	

@@ -2,7 +2,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        11. Do you have any of the following at this property?
+        9. Do you have any of the following at this property?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />

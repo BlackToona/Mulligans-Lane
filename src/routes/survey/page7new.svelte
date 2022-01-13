@@ -1,7 +1,7 @@
 <!-- /this is  OK for next step Jan22 -->
 <div class="container">
     <div>
-        7. Number of people who usually live at this property?
+        5. Number of people who usually live at this property?
     <ul>
         <li>
             <label for="1">0-18 years</label>

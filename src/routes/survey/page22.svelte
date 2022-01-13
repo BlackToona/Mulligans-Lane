@@ -1,11 +1,11 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        22.  What community meetings would be useful to you?
+        20.  What community meetings would be useful to you?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked/>
-			<label for="1">Pre Fire season </label>
+			<label for="1"> Fire season preparation</label>
 			
 		</li>
 		<li>
@@ -42,7 +42,7 @@
 		</li>
         <li>
 			<input type="checkbox" id="10" name="10" unchecked />
-			<label for="10">Community Dinners</label>
+			<label for="10">Community dinners</label>
 		</li>
         <li>
 			<input type="checkbox" id="11" name="11" unchecked  />

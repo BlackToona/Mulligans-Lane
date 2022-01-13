@@ -2,7 +2,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
 <div>
-    8. Number of pets you have on this property?
+    6. Number of pets you have on this property?
 <ul>
     <li>
         <label for="1">Dogs</label>

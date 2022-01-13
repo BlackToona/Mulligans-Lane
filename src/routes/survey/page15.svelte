@@ -1,7 +1,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        Does your property have?
+        13. Does your property have?
 	<ul>
 		<li>
 			<input type="checkbox" id="1" name="1" unchecked />
@@ -17,7 +17,7 @@
 		</li>
 		<li>
 			<input type="checkbox" id="4" name="4" unchecked />
-			<label for="4">Driveway tree clearance (3.5 m overhead)</label>
+			<label for="4">Driveway 3.5m overhead clearance </label>
 		</li>
 		<li>
 			<input type="checkbox" id="5" name="5" unchecked />

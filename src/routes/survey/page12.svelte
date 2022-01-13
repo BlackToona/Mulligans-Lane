@@ -3,7 +3,7 @@
 <!-- /this is OK for next step Jan22 -->
 <div class="container">
     <div>
-        12. Do you have a Stortz fitting attached to a water tank?  
+        10. Do you have a Stortz fitting attached to a water tank?  
 
 	<ul>
 		<li>
